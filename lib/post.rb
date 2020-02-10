@@ -5,4 +5,4 @@ class Post
     @title
   end
 end
-author.post = author
+
