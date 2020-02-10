@@ -1,5 +1,5 @@
 require 'artist.rb'
-class Post 
+class Song 
   attr_accessor :title 
   def initialize
     @title
