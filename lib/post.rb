@@ -1,8 +1,4 @@
-require 'author.rb'
 class Post 
-  attr_accessor :title 
-  def initialize
-    @title
-  end
+  attr_accessor :title :author
 end
 
