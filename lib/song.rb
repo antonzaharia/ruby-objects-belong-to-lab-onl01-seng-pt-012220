@@ -1,7 +1,5 @@
-require 'artist.rb'
+
 class Song 
-  attr_accessor :title :artist
-  def initialize
-    @title
-  end
+  attr_accessor :title, :artist
+
 end
